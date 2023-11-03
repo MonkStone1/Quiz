@@ -168,6 +168,30 @@ const questions =
         new Answer('черная в белую полоску', 0),
         new Answer('просто спала на пианино', 1)
       ])
+        new Question('Зебра',
+      [
+        new Answer('белая в черную полоску', 0),
+        new Answer('черная в белую полоску', 1),
+        new Answer('просто спала на пианино', 0)
+      ])
+    new Question('Зебра',
+      [
+        new Answer('белая в черную полоску', 0),
+        new Answer('черная в белую полоску', 0),
+        new Answer('просто спала на пианино', 1)
+      ])
+    new Question('Зебра',
+      [
+        new Answer('белая в черную полоску', 1),
+        new Answer('черная в белую полоску', 0),
+        new Answer('просто спала на пианино', 0)
+      ])
+    new Question('Зебра',
+      [
+        new Answer('белая в черную полоску', 0),
+        new Answer('черная в белую полоску', 1),
+        new Answer('просто спала на пианино', 0)
+      ])
   ];
 
 // initialization
